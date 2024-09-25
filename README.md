@@ -1,0 +1,2 @@
+# sCrypt
+sCrypt cn
